@@ -2,5 +2,5 @@
  #  აქ არის კიდევ 6 დავალება, რომლებიც ფოკუსირებულია შედარების ოპერატორებზე პირობითების გამოყენების გარეშე:
 text = "gamarjoba,"
 text1= "gagimarjos,"
-text2= "gmertma xeli mogimarjvos,"
+text2= "gmertma xeli mogimarjvos!"
 print(text,text1,text2)
